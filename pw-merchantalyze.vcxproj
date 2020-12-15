@@ -142,6 +142,7 @@
     <ClInclude Include="csvstream.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="metrics_test.cpp" />
     <ClCompile Include="trade_metrics_tracker.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
