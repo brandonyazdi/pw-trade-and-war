@@ -1,5 +1,5 @@
 # pw-merchantalyze
-Probably will be actually usable by late December.
+Probably will be actually usable by late January.
 
 
 Author: Brandon Yazdi
